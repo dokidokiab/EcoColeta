@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/home/joeziojr/NetBeansProjects/ProjetoBase%20(1)/ProjetoBase/src/br/com/ifba/MainTest.java</file>
+            <file>file:/home/joeziojr/NetBeansProjects/ProjetoBase%20(1)/ProjetoBase/src/br/com/ifba/usuario/model/Catador.java</file>
+            <file>file:/home/joeziojr/NetBeansProjects/ProjetoBase%20(1)/ProjetoBase/src/br/com/ifba/usuario/model/Descarte.java</file>
+            <file>file:/home/joeziojr/NetBeansProjects/ProjetoBase%20(1)/ProjetoBase/src/br/com/ifba/usuario/dao/UsuarioDAO.java</file>
+            <file>file:/home/joeziojr/NetBeansProjects/ProjetoBase%20(1)/ProjetoBase/src/br/com/ifba/infrastructure/util/Session.java</file>
+            <file>file:/home/joeziojr/NetBeansProjects/ProjetoBase%20(1)/ProjetoBase/src/br/com/ifba/infrastructure/model/PersistenceEntity.java</file>
+            <file>file:/home/joeziojr/NetBeansProjects/ProjetoBase%20(1)/ProjetoBase/src/br/com/ifba/usuario/model/Usuario.java</file>
+        </group>
+    </open-files>
+</project-private>
